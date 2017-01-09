@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <title>Emby</title>
-  <link>https://emby.media</link>
-  <description>Emby</description>
-  <lastBuildDate>Fri, 06 Jan 2017 21:16:00 +0000</lastBuildDate>
   <channel>
+    <title>Emby</title>
+    <link>https://emby.media</link>
+    <description>Emby</description>
+    <lastBuildDate>Fri, 06 Jan 2017 21:16:00 +0000</lastBuildDate>
+    <language>en-US</language>
     <item>
       <title>Media Browser for Chromecast updated</title>
       <link>https://emby.media/media-browser-for-chromecast-updated.html</link>
