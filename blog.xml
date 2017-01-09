@@ -5,7 +5,8 @@
     <link>https://emby.media</link>
     <atom:link href="https://emby.media/feed" rel="self" type="application/rss+xml" />
     <description>Emby</description>
-    <lastBuildDate>Fri, 06 Jan 2017 21:16:00 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2017 00:46:00 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:46:00 +0000</lastBuildDate>
     <language>en-US</language>
     <item>
       <title>Media Browser for Chromecast updated</title>
