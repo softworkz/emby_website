@@ -87,15 +87,14 @@ function fillPackageHrefs(releases) {
         var info = getLatestVersionInfo(releases, elem.getAttribute('data-filename'), elem.getAttribute('data-level'));
 
         if (info) {
-
-            elem.innerHTML = elem.innerHTML.replace('{filename}', info.filename);
+            elem.innerHTML = elem.innerHTML.replace('{filename}', info.filename).replace('{url}', info.url);
         }
     }
 }
 
 function fillPackageInfo() {
 
-    return jQuery.getJSON('https://api.github.com/repos/MediaBrowser/Emby/releases').then(function (releases) {
+    return jQuery.getJSON('https://api.github.com/repos/MediaBrowser/Emby.Releases/releases').then(function (releases) {
 
         fillPackageHrefs(releases);
     });
