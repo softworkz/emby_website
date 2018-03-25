@@ -38,6 +38,9 @@ jQuery(document).ready(function ($) {
                 data: {
                     nameOrEmail: username,
                     rawpw: $('#pw').val()
+                },
+                headers: {
+                    'X-Application': 'Emby Website'
                 }
             }).done(function (json) {
                 var result = $.parseJSON(json);
