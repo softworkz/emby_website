@@ -40,7 +40,7 @@ jQuery(document).ready(function ($) {
                     rawpw: $('#pw').val()
                 },
                 headers: {
-                    'X-Application': 'Emby Website/1'
+                    'X-Application': 'EmbyWebSite/1'
                 }
             }).done(function (json) {
                 var result = $.parseJSON(json);
