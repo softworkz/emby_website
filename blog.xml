@@ -4865,5 +4865,21 @@ class='bbc_url' title=''>https://emby.media/emby-theater.html</a></p><p>&nbsp;</
         <url>https://emby.media/community/uploads/inline/2/561bc276520b9_1.png</url>
       </image>
     </item>
+    <item>
+      <title>Emby for Samsung Tizen TV Now Available for USB Installation</title>
+      <link>https://emby.media/emby-for-samsung-tizen-tv-now-available-for-usb-installation.html</link>
+      <pubDate>Wed, 03 Jul 2019 17:24:00 +0000</pubDate>
+      <description>
+        <![CDATA[
+<p>Please see our community for details: <a href='https://emby.media/community/index.php?/topic/74969-samsung-tizen-install-from-usb/' class='bbc_url' title=''>https://emby.media/community/index.php?/topic/74969-samsung-tizen-install-from-usb/</a></p><p>&nbsp;</p><p> If the app is not in the app store in your country, or if you'd like to try preview builds, you can now install from a USB drive.</p><p>&nbsp;</p><p> <span rel='lightbox'><img class='bbc_img' src='https://emby.media/resources/9.png' alt='Posted Image' /></span></p>
+]]>
+      </description>
+      <author>apps@emby.media (Emby)</author>
+      <guid>https://emby.media/emby-for-samsung-tizen-tv-now-available-for-usb-installation.html</guid>
+      <image>
+        <title>Emby for Samsung Tizen TV Now Available for USB Installation</title>
+        <url>https://emby.media/community/uploads/inline/2/561bc276520b9_1.png</url>
+      </image>
+    </item>
   </channel>
 </rss>
