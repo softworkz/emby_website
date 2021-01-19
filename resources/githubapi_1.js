@@ -23,6 +23,8 @@ function containsFile(release, filename) {
 
 function getLatestVersionInfo(releases, filename, level) {
 
+    alert(releases.length);
+
     releases = releases.filter(function (release) {
 
         if (!containsFile(release, filename)) {
@@ -94,12 +96,34 @@ function fillPackageHrefs(releases) {
     }
 }
 
+function getFetchPromise(url) {
+
+    var fetchRequest = {
+        headers: {
+            accept: 'application/json'
+        },
+        method: 'GET',
+        credentials: 'same-origin',
+        mode: 'no-cors'
+    };
+
+    return fetch(url, fetchRequest).then(function (response) {
+
+        if ((response.status || 0) < 400) {
+            return response.json();
+        }
+
+        throw new Error('fetch error');
+    });
+}
+
 function fillPackageInfo() {
 
-    return jQuery.getJSON('https://api.github.com/repos/MediaBrowser/Emby.Releases/releases').then(function (releases) {
+    getFetchPromise('https://api.github.com/repos/MediaBrowser/Emby.Releases/releases').catch(function () {
 
-        fillPackageHrefs(releases);
-    });
+        return getFetchPromise('releases.json');
+
+    }).then(fillPackageHrefs);
 }
 
 fillPackageInfo();
