@@ -23,8 +23,6 @@ function containsFile(release, filename) {
 
 function getLatestVersionInfo(releases, filename, level) {
 
-    alert(releases.length);
-
     releases = releases.filter(function (release) {
 
         if (!containsFile(release, filename)) {
