@@ -3,9 +3,9 @@
 <head itemscope itemtype="https://schema.org/Article">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
-    <title>Emby Server for Docker</title>
-    <meta name="description" content="Emby Server for Docker - Organize and stream your personal videos, music, photos and Live TV to any device.">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Emby Server for TrueNAS - Emby</title>
+
+    <meta name="description" content="Emby Server for TrueNAS - Organize and stream your personal videos, music, photos and Live TV to any device.">
     <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="Emby">
 <meta itemprop="description" content="media server for personal streaming videos tv music photos in mobile app or browser for all devices android iOS windows phone appletv androidtv smarttv and dlna">
@@ -31,12 +31,13 @@
 <meta property="og:image" content="https://emby.media/resources/logowhite_1881.png" >
 <meta property="og:description" itemprop="description" content="media server for personal streaming videos tv music photos in mobile app or browser for all devices android iOS windows phone appletv androidtv smarttv and dlna" >
 <meta property="og:site_name" content="Emby" >
-<meta property="article:published_time" content="2019-06-11T15:18:02.597" >
-<meta property="article:modified_time" content="2021-06-11T15:18:02.597" >
+<meta property="article:published_time" content="2019-06-11T15:18:03.150" >
+<meta property="article:modified_time" content="2021-06-11T15:18:03.150" >
 <meta property="article:section" content="Article Section" >
 <meta property="article:tag" content="Article Tag" >
 <meta property="fb:admins" content="1618309211750238">
 <meta property="fb:app_id" content="1618309211750238">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" id="rs-plugin-settings-css" href="resources/settings.css" type="text/css" media="all">
     <style id="rs-plugin-settings-inline-css" type="text/css">
         .tp-caption a {
@@ -293,7 +294,37 @@
             -moz-border-radius: 400px;
             border-radius: 400px;
         }
+
+        .installPlatform {
+            margin: 2em 0 1em;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        .instructionList {
+            margin-left: 1em !important;
+        }
+
+        .instructionListHeader {
+            font-size: 130%;
+            font-weight: 500;
+        }
     </style>
+    <script>
+        function onPlatformChange(platform) {
+            var platforms = document.querySelectorAll('.installPlatform');
+
+            for (var i = 0, length = platforms.length; i < length; i++) {
+                if (platforms[i].classList.contains(platform)) {
+                    platforms[i].classList.remove('hide');
+                } else {
+                    platforms[i].classList.add('hide');
+                }
+            }
+        }
+    </script>
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" id="us-motioncss-css" href="resources/motioncss.css" type="text/css" media="all">
     <link rel="stylesheet" id="us-motioncss-responsive-css" href="resources/motioncss-responsive.css" type="text/css" media="all">
@@ -312,6 +343,7 @@
     <script type="text/javascript" src="resources/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="resources/jquery.themepunch.revolution.min.js"></script>
     <script type="text/javascript" src="resources/ultimate-params.min.js"></script>
+
     <!--[if IE 8]><link rel="stylesheet" type="text/css" href="resources/vc-ie8.css" media="screen"><![endif]-->
     <link rel="apple-touch-icon" sizes="57x57" href="apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="apple-touch-icon-60x60.png">
@@ -355,10 +387,13 @@
             <div class="l-subheader at_top" style="line-height: 40px; height: 40px;">
                 <div class="l-subheader-h i-cf">
 
+
                     <div class="w-contacts">
                         <div class="w-contacts-list">
                         </div>
                     </div>
+
+
 
                     <div class="w-socials">
     <div class="w-socials-list">
@@ -412,6 +447,8 @@
                     </div>
 
 
+
+
                     <div class="w-search">
                         <span class="w-search-show"><i class="mdfi_action_search"></i></span>
                         <div class="w-search-form-overlay"></div>
@@ -434,6 +471,7 @@
                         </form>
                     </div>
 
+
                     <!-- NAV -->
                     <nav class="w-nav layout_hor animation_mdesign height_auto type_desktop">
                         <div class="w-nav-control"></div>
@@ -447,8 +485,10 @@
                         </ul>
                     </nav><!-- /NAV -->
 
+
                 </div>
             </div>
+
         </div>
         <!-- /HEADER -->
         <!-- MAIN -->
@@ -456,56 +496,22 @@
             <div class="l-submain for_pagehead color_alternate size_large" style="padding-top: 140px;">
                 <div class="l-submain-h g-html i-cf">
                     <div class="w-pagehead">
-                        <h1>Emby Server for Docker</h1>
+                        <h1>Emby Server for TrueNAS</h1>
                     </div>
                 </div>
             </div>
             <div class="l-submain wpb_row">
-                <div class="l-submain-h g-html i-cf">
+                <div class="l-submain-h g-html i-cf" style="padding-top:3em;">
                     <div class="g-cols wpb_row offset_wide">
-                        <div class="two-thirds">
+                        <div>
                             <div class="wpb_text_column ">
                                 <div class="wpb_wrapper">
-                                    <div style="margin: 0 auto; max-width: 450px;">
-                                        <h2>Installation</h2>
-                                        <div>
-                                            <strong>Install Docker</strong>
-                                        </div>
-                                        <p>
-                                            <a href="https://docs.docker.com/installation/#installation">https://docs.docker.com/installation/#installation</a>
-                                        </p>
-                                        <div>
-                                            <strong>Install Emby Server - X64</strong>
-                                        </div>
-                                        <p>
-                                            Emby Docker instructions can be found on Docker Hub:
-                                            <br /><a href="https://hub.docker.com/r/emby/embyserver" target="_blank">https://hub.docker.com/r/emby/embyserver</a>
-                                        </p>
-                                        <div>
-                                            <strong>Install Emby Server - Arm64 (aarch64)</strong>
-                                        </div>
-                                        <p>
-                                            Emby Docker instructions can be found on Docker Hub:
-                                            <br /><a href="https://hub.docker.com/r/emby/embyserver_arm64v8" target="_blank">https://hub.docker.com/r/emby/embyserver_arm64v8</a>
-                                        </p>
-                                        <div>
-                                            <strong>Install Emby Server - Armv7 (armhf)</strong>
-                                        </div>
-                                        <p>
-                                            Emby Docker instructions can be found on Docker Hub:
-                                            <br /><a href="https://hub.docker.com/r/emby/embyserver_arm32v7" target="_blank">https://hub.docker.com/r/emby/embyserver_arm32v7</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><div class="one-third">
-                            <div class="wpb_text_column ">
-                                <div class="wpb_wrapper">
-                                    <h4>Resources</h4>
-                                    <span class="wpb_button align_left"><a href="community/index.php?/topic/9754-docker-setup" target="_blank" class="g-btn color_primary type_raised"><i class="fa fa-users"></i><span>Community</span><span class="ripple-container"></span></a></span>
-                                    <div>
-                                        <span class="wpb_button align_left"><a href="https://github.com/MediaBrowser/Wiki/wiki/Docker-Getting-Started" target="_blank" class="g-btn color_primary type_raised"><i class="fa fa-book"></i><span>Wiki</span><span class="ripple-container"></span></a></span>
-                                    </div>
+                                    <ol class="instructionList">
+                                        <li>Install the Emby plugin using the TrueNAS web interface</li>
+                                        <li>Start Emby server using the TrueNAS web interface</li>
+                                        <li>You may need to configure storage within your TrueNAS Jail in order to allow Emby to access it. See <a target="_blank" href="https://www.ixsystems.com/documentation/freenas/11/jails.html#add-storage">Adding storage to TrueNAS.</a></li>
+                                        <li>Open a web browser to http://localhost:8096</li>
+                                    </ol>
                                 </div>
                             </div>
                         </div>
@@ -527,6 +533,7 @@
                 </div>
                 <div class="one-third">
                 </div>
+
             </div>
         </div>
         <!-- subfooter: bottom -->
@@ -535,9 +542,10 @@
                 <div class="w-copyright"><p>© 2020 Emby LLC</p><p style="margin-top:1em;">Emby is designed to help you manage your personal media library, such as home videos and photos.  Please see our <a href="terms.html">terms of use</a> and <a href="privacy.html">privacy policy</a>.  Downloading any Emby software constitutes acceptance of these terms.</p></div>
             </div>
         </div>
+
     </div>
     <!-- /FOOTER -->
-    <a class="w-toplink" href="#"><i class="mdfi_hardware_keyboard_arrow_up"></i></a>
+    <a class="w-toplink" href="mac-server.html#"><i class="mdfi_hardware_keyboard_arrow_up"></i></a>
     <script type="text/javascript">
         if (window.$us === undefined) window.$us = {};
         $us.canvasOptions = ($us.canvasOptions || {});
@@ -568,6 +576,7 @@
     <script type="text/javascript" src="resources/us.core.js"></script>
     <script type="text/javascript" src="resources/us.widgets.js"></script>
     <script type="text/javascript" src="resources/comment-reply.min.js"></script>
+
     <!-- Dynamic page generated in 0.118 seconds. -->
     <!-- Cached page generated by WP-Super-Cache on 2016-01-03 10:35:21 -->
     <!-- Compression = gzip -->
