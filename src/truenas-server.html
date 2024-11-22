@@ -453,7 +453,7 @@ iocage set plugin_repository='https://github.com/MediaBrowser/iocage-amd64.git' 
 </pre>
                                             <div><b>TrueNAS 12:</b></div>
                                             <pre>
-git clone -b truenas12 https://github.com/MediaBrowser/iocage-amd64.git
+git clone -b freebsd12 https://github.com/MediaBrowser/iocage-amd64.git
 cd iocage-amd64
 iocage fetch -P emby-server.json dhcp="on" ip6="inherit" allow_mlock="on" --branch truenas12
 iocage set plugin_repository='https://github.com/MediaBrowser/iocage-amd64.git' emby-server
