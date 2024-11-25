@@ -65,7 +65,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 250418468,
-        "download_count": 3,
+        "download_count": 259,
         "created_at": "2024-11-22T07:06:13Z",
         "updated_at": "2024-11-22T07:06:17Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/com.emby.embyserver_4.9.0.32.apk"
@@ -100,7 +100,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 122633492,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2024-11-22T08:43:04Z",
         "updated_at": "2024-11-22T08:43:07Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-asustor_4.9.0.32_arm.apk"
@@ -135,7 +135,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2024-11-22T08:43:08Z",
         "updated_at": "2024-11-22T08:43:09Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-asustor_4.9.0.32_arm.apk.md5"
@@ -170,7 +170,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 129019035,
-        "download_count": 0,
+        "download_count": 9,
         "created_at": "2024-11-22T08:57:32Z",
         "updated_at": "2024-11-22T08:57:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-asustor_4.9.0.32_arm64.apk"
@@ -205,7 +205,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T08:57:37Z",
         "updated_at": "2024-11-22T08:57:37Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-asustor_4.9.0.32_arm64.apk.md5"
@@ -240,7 +240,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 269836870,
-        "download_count": 5,
+        "download_count": 37,
         "created_at": "2024-11-22T09:01:29Z",
         "updated_at": "2024-11-22T09:01:33Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-asustor_4.9.0.32_x86-64.apk"
@@ -310,7 +310,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 184975900,
-        "download_count": 61,
+        "download_count": 248,
         "created_at": "2024-11-22T08:59:44Z",
         "updated_at": "2024-11-22T08:59:48Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_amd64.deb"
@@ -345,7 +345,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 10,
         "created_at": "2024-11-22T08:59:49Z",
         "updated_at": "2024-11-22T08:59:50Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_amd64.deb.md5"
@@ -380,7 +380,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 90042908,
-        "download_count": 7,
+        "download_count": 52,
         "created_at": "2024-11-22T08:56:56Z",
         "updated_at": "2024-11-22T08:56:58Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_arm64.deb"
@@ -415,7 +415,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 10,
         "created_at": "2024-11-22T08:57:00Z",
         "updated_at": "2024-11-22T08:57:00Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_arm64.deb.md5"
@@ -450,7 +450,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 121289730,
-        "download_count": 3,
+        "download_count": 24,
         "created_at": "2024-11-22T08:42:34Z",
         "updated_at": "2024-11-22T08:42:37Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_armhf.deb"
@@ -485,7 +485,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 10,
         "created_at": "2024-11-22T08:42:38Z",
         "updated_at": "2024-11-22T08:42:38Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-deb_4.9.0.32_armhf.deb.md5"
@@ -590,7 +590,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185173328,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2024-11-22T07:00:46Z",
         "updated_at": "2024-11-22T07:00:49Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-flatpak_4.9.0.32_x86_64.flatpak"
@@ -660,7 +660,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 101864632,
-        "download_count": 2,
+        "download_count": 12,
         "created_at": "2024-11-22T06:54:48Z",
         "updated_at": "2024-11-22T06:54:50Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-freebsd13_4.9.0.32_amd64.pkg"
@@ -800,7 +800,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 110467663,
-        "download_count": 0,
+        "download_count": 9,
         "created_at": "2024-11-22T06:56:32Z",
         "updated_at": "2024-11-22T06:56:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-freebsd14_4.9.0.32_amd64.pkg"
@@ -940,7 +940,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 186591678,
-        "download_count": 0,
+        "download_count": 5,
         "created_at": "2024-11-22T08:52:16Z",
         "updated_at": "2024-11-22T08:52:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-netgear_4.9.0.32_amd64.deb"
@@ -1010,7 +1010,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 90761146,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2024-11-22T08:37:54Z",
         "updated_at": "2024-11-22T08:37:56Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-netgear_4.9.0.32_armhf.deb"
@@ -1080,7 +1080,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 103145495,
-        "download_count": 1,
+        "download_count": 4,
         "created_at": "2024-11-22T07:01:18Z",
         "updated_at": "2024-11-22T07:01:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap-mono_4.9.0.32_arm-x19.qpkg"
@@ -1115,7 +1115,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T07:01:21Z",
         "updated_at": "2024-11-22T07:01:21Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap-mono_4.9.0.32_arm-x19.qpkg.md5"
@@ -1150,7 +1150,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 102157501,
-        "download_count": 0,
+        "download_count": 7,
         "created_at": "2024-11-22T07:03:24Z",
         "updated_at": "2024-11-22T07:03:25Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap-mono_4.9.0.32_arm-x41.qpkg"
@@ -1220,7 +1220,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 89824038,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2024-11-22T06:43:35Z",
         "updated_at": "2024-11-22T06:43:37Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap_4.9.0.32_arm-x31.qpkg"
@@ -1290,7 +1290,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 92204688,
-        "download_count": 2,
+        "download_count": 18,
         "created_at": "2024-11-22T06:47:41Z",
         "updated_at": "2024-11-22T06:47:43Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap_4.9.0.32_arm_64.qpkg"
@@ -1360,7 +1360,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 198681186,
-        "download_count": 16,
+        "download_count": 103,
         "created_at": "2024-11-22T06:53:04Z",
         "updated_at": "2024-11-22T06:53:09Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-qnap_4.9.0.32_x86_64.qpkg"
@@ -1500,7 +1500,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 176156345,
-        "download_count": 6,
+        "download_count": 22,
         "created_at": "2024-11-22T07:43:32Z",
         "updated_at": "2024-11-22T07:43:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-rpm_4.9.0.32_x86_64.rpm"
@@ -1920,7 +1920,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 112998400,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T07:14:18Z",
         "updated_at": "2024-11-22T07:14:21Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology-mono_4.9.0.32_ppc.spk"
@@ -1990,7 +1990,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 118200320,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T07:15:36Z",
         "updated_at": "2024-11-22T07:15:39Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology-mono_4.9.0.32_x86.spk"
@@ -2060,7 +2060,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 110622720,
-        "download_count": 0,
+        "download_count": 5,
         "created_at": "2024-11-22T07:06:01Z",
         "updated_at": "2024-11-22T07:06:03Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7-mono_4.9.0.32_armv7_legacy.spk"
@@ -2130,7 +2130,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 118220800,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2024-11-22T07:12:39Z",
         "updated_at": "2024-11-22T07:12:41Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7-mono_4.9.0.32_x86.spk"
@@ -2200,7 +2200,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 110612480,
-        "download_count": 1,
+        "download_count": 15,
         "created_at": "2024-11-22T07:03:28Z",
         "updated_at": "2024-11-22T07:03:31Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72-mono_4.9.0.32_armv7_legacy.spk"
@@ -2235,7 +2235,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T07:03:32Z",
         "updated_at": "2024-11-22T07:03:32Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72-mono_4.9.0.32_armv7_legacy.spk.md5"
@@ -2270,7 +2270,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 89968640,
-        "download_count": 0,
+        "download_count": 7,
         "created_at": "2024-11-22T06:42:50Z",
         "updated_at": "2024-11-22T06:42:52Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72_4.9.0.32_armv7.spk"
@@ -2305,7 +2305,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T06:42:53Z",
         "updated_at": "2024-11-22T06:42:53Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72_4.9.0.32_armv7.spk.md5"
@@ -2340,7 +2340,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 91576320,
-        "download_count": 1,
+        "download_count": 18,
         "created_at": "2024-11-22T06:54:42Z",
         "updated_at": "2024-11-22T06:54:44Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72_4.9.0.32_armv8.spk"
@@ -2410,7 +2410,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 186224640,
-        "download_count": 52,
+        "download_count": 323,
         "created_at": "2024-11-22T06:58:36Z",
         "updated_at": "2024-11-22T06:58:39Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72_4.9.0.32_x86_64.spk"
@@ -2445,7 +2445,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2024-11-22T06:58:41Z",
         "updated_at": "2024-11-22T06:58:41Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology72_4.9.0.32_x86_64.spk.md5"
@@ -2480,7 +2480,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 91351040,
-        "download_count": 0,
+        "download_count": 8,
         "created_at": "2024-11-22T06:44:21Z",
         "updated_at": "2024-11-22T06:44:23Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7_4.9.0.32_armv7.spk"
@@ -2515,7 +2515,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 33,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T06:44:24Z",
         "updated_at": "2024-11-22T06:44:24Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7_4.9.0.32_armv7.spk.md5"
@@ -2550,7 +2550,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 93214720,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2024-11-22T06:59:03Z",
         "updated_at": "2024-11-22T06:59:04Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7_4.9.0.32_armv8.spk"
@@ -2620,7 +2620,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 187996160,
-        "download_count": 6,
+        "download_count": 39,
         "created_at": "2024-11-22T07:03:29Z",
         "updated_at": "2024-11-22T07:03:33Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology7_4.9.0.32_x86_64.spk"
@@ -2760,7 +2760,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 93214720,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2024-11-22T06:58:54Z",
         "updated_at": "2024-11-22T06:58:56Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology_4.9.0.32_armv8.spk"
@@ -2830,7 +2830,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 187996160,
-        "download_count": 2,
+        "download_count": 13,
         "created_at": "2024-11-22T07:02:37Z",
         "updated_at": "2024-11-22T07:02:40Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-synology_4.9.0.32_x86_64.spk"
@@ -2900,7 +2900,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 123310823,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T06:43:59Z",
         "updated_at": "2024-11-22T06:44:01Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-thecus_4.9.0.32_arm_32.mod"
@@ -2970,7 +2970,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 271539427,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T06:48:05Z",
         "updated_at": "2024-11-22T06:48:09Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-thecus_4.9.0.32_x86_64.mod"
@@ -3600,7 +3600,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156306092,
-        "download_count": 0,
+        "download_count": 3,
         "created_at": "2024-11-22T07:02:09Z",
         "updated_at": "2024-11-22T07:02:12Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-western_digital_ex2_ultra_os5_4.9.0.32_arm.bin"
@@ -4160,7 +4160,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 156304976,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2024-11-22T07:03:53Z",
         "updated_at": "2024-11-22T07:03:56Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-western_digital_my_cloud_gen2_os5_4.9.0.32_arm.bin"
@@ -4440,7 +4440,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 271536426,
-        "download_count": 3,
+        "download_count": 6,
         "created_at": "2024-11-22T06:55:33Z",
         "updated_at": "2024-11-22T06:55:38Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby-server-western_digital_pr4100_os5_4.9.0.32_x86_64.bin"
@@ -4510,7 +4510,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 48687513,
-        "download_count": 8,
+        "download_count": 19,
         "created_at": "2024-11-22T06:40:55Z",
         "updated_at": "2024-11-22T06:41:06Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-netcore_4.9.0.32.zip"
@@ -4545,10 +4545,80 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 50650391,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2024-11-22T06:59:20Z",
         "updated_at": "2024-11-22T06:59:22Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-netframework_4.9.0.32.zip"
+      },
+      {
+        "url": "https://api.github.com/repos/MediaBrowser/Emby.Releases/releases/assets/208985491",
+        "id": 208985491,
+        "node_id": "RA_kwDOAYHGtM4MdN2T",
+        "name": "embyserver-osx-arm64-4.9.0.32.zip",
+        "label": "",
+        "uploader": {
+          "login": "embybuilder",
+          "id": 54863925,
+          "node_id": "MDQ6VXNlcjU0ODYzOTI1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54863925?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/embybuilder",
+          "html_url": "https://github.com/embybuilder",
+          "followers_url": "https://api.github.com/users/embybuilder/followers",
+          "following_url": "https://api.github.com/users/embybuilder/following{/other_user}",
+          "gists_url": "https://api.github.com/users/embybuilder/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/embybuilder/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/embybuilder/subscriptions",
+          "organizations_url": "https://api.github.com/users/embybuilder/orgs",
+          "repos_url": "https://api.github.com/users/embybuilder/repos",
+          "events_url": "https://api.github.com/users/embybuilder/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/embybuilder/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 128349388,
+        "download_count": 1,
+        "created_at": "2024-11-25T17:51:27Z",
+        "updated_at": "2024-11-25T17:51:30Z",
+        "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-osx-arm64-4.9.0.32.zip"
+      },
+      {
+        "url": "https://api.github.com/repos/MediaBrowser/Emby.Releases/releases/assets/208985494",
+        "id": 208985494,
+        "node_id": "RA_kwDOAYHGtM4MdN2W",
+        "name": "embyserver-osx-x64-4.9.0.32.zip",
+        "label": "",
+        "uploader": {
+          "login": "embybuilder",
+          "id": 54863925,
+          "node_id": "MDQ6VXNlcjU0ODYzOTI1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/54863925?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/embybuilder",
+          "html_url": "https://github.com/embybuilder",
+          "followers_url": "https://api.github.com/users/embybuilder/followers",
+          "following_url": "https://api.github.com/users/embybuilder/following{/other_user}",
+          "gists_url": "https://api.github.com/users/embybuilder/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/embybuilder/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/embybuilder/subscriptions",
+          "organizations_url": "https://api.github.com/users/embybuilder/orgs",
+          "repos_url": "https://api.github.com/users/embybuilder/repos",
+          "events_url": "https://api.github.com/users/embybuilder/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/embybuilder/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "content_type": "application/octet-stream",
+        "state": "uploaded",
+        "size": 140077703,
+        "download_count": 0,
+        "created_at": "2024-11-25T17:51:31Z",
+        "updated_at": "2024-11-25T17:51:34Z",
+        "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-osx-x64-4.9.0.32.zip"
       },
       {
         "url": "https://api.github.com/repos/MediaBrowser/Emby.Releases/releases/assets/208273692",
@@ -4580,7 +4650,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 133744069,
-        "download_count": 1138,
+        "download_count": 2816,
         "created_at": "2024-11-22T07:05:17Z",
         "updated_at": "2024-11-22T07:05:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-win-x64-4.9.0.32.7z"
@@ -4615,7 +4685,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 125178494,
-        "download_count": 15,
+        "download_count": 21,
         "created_at": "2024-11-22T07:05:21Z",
         "updated_at": "2024-11-22T07:05:23Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/embyserver-win-x86-4.9.0.32.7z"
@@ -4650,7 +4720,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 93937960,
-        "download_count": 0,
+        "download_count": 5,
         "created_at": "2024-11-22T06:44:38Z",
         "updated_at": "2024-11-22T06:44:40Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby_TOS5_APP_4.9.0.32_aarch64.tpk"
@@ -4720,7 +4790,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 188788792,
-        "download_count": 1,
+        "download_count": 19,
         "created_at": "2024-11-22T06:50:30Z",
         "updated_at": "2024-11-22T06:50:34Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby_TOS5_APP_4.9.0.32_x86_64.tpk"
@@ -4790,7 +4860,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 125352614,
-        "download_count": 1,
+        "download_count": 9,
         "created_at": "2024-11-22T06:44:57Z",
         "updated_at": "2024-11-22T06:45:00Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby_TOS_APP_4.9.0.32_aarch64.tpk"
@@ -4860,7 +4930,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 254966798,
-        "download_count": 1,
+        "download_count": 4,
         "created_at": "2024-11-22T06:51:08Z",
         "updated_at": "2024-11-22T06:51:13Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.32/emby_TOS_APP_4.9.0.32_x86_64.tpk"
@@ -4906,8 +4976,8 @@
     "body": "* Fix image extraction regression from previous build\r\n* Add server startup notification\r\n* Update to libvips 8.15\r\n* Fix album tagging for music videos\r\n* Fix guide quickly scrolling back to current time\r\n\r\nCumulative changes since stable release:\r\n* Improve library scan performance\r\n* Improve live tv guide refresh performance\r\n* Update to .NET 8\r\n* Support macOS on all betas going forward\r\n* Artist sorting fixes\r\n* Improve camera upload error handling\r\n* Add episode title to recording notifications\r\n* Fix person sort order\r\n* macOS networking fixes\r\n* Smb file system fixes\r\n* Support locking artists\r\n* Rtsp protocol fixes\r\n* Support setting shuffle state in audio player\r\n* Fix 3D flag being lost in some cases on initial import\r\n* Add Group By option on collection screens to choose between grouping collection items by media type or displaying all items in a single list\r\n* Transcoding fixes for audio only strm files\r\n* Increase image extraction timeout\r\n* M3U Live TV regression fix\r\n* Fix sorting by composers and artists when there are multiple values\r\n* Add prompt for playback when a channel is recording\r\n* Support incremental seek speed using arrow keys\r\n* Show more rows in video OSD guide\r\n* Support launching videos from photo slideshow\r\n* Auto-scroll the guide to the last played channel\r\n* Factor in disc number to audio image uniqueness when extracting images from audio files\r\n* Fix import collection options not showing in Emby library setup\r\n* Fix error after adding a new person using the metadata editor\r\n* Improve chapter support with multi-version videos\r\n* Fix series scanning regression related to year in folder name\r\n* Improve camera upload error handling\r\n* Support alternative encodings of playlist files\r\n* Improve photo scanning error handling\r\n* Support multiple episodedetails nodes in nfo files\r\n* Add workaround for older Dlna devices to fix playback failures\r\n* Fix temp files from database backup process not being cleaned up\r\n* Add channel groups picker above the guide\r\n* Improve remote image content-type detection\r\n* Fix playlist library folder not generating an image\r\n* Start running hardware detection earlier on startup to try and avoid playback errors\r\n* Support drag and drop reordering of transcoding codec settings\r\n* Portuguese tv naming fixes\r\n* Support ja-jp language code\r\n* Fix CA-A parental rating value\r\n* Improve server log anonymization\r\n* Adjust timing calculations for unaired/missing episodes\r\n* Fix incorrect items when shuffling or playing all on a music genre\r\n* Increase realtime monitor delay to help avoid repeated scanning\r\n* Support drag and drop reordering in home screen settings library order\r\n* Support drag and drop reordering in the metadata editor for genres, tags, people and studios\r\n* Fix extras being played with remote control play commands\r\n* Fix external dvdsub delivery\r\n* Support launching videos from slideshow\r\n* Prompt user when playing live channel with an active recording to ask if they want to start from the current live position or the start of the recording\r\n* Convert subtitle offset dialog to a slider\r\n* Fix unable to lock People\r\n* Fix person nfo not being saved\r\n* Set container field when importing all books\r\n* Search all subtitle providers on manual subtitle downloads\r\n* Fix collections getting lost after subtitle downloading when no nfo file is present\r\n* Fix intermittent issue of new recordings not having media info\r\n* Various content visibility fixes for newly created libraries\r\n* Fix more like this not hiding played media when the option is set\r\n* Fix sporadic cases of live streams ending early\r\n* Fix multiple live tv views showing\r\n* Add series recording option to check all libraries for existing episodes\r\n* Restore collections library\r\n* Fix adult metadata option not being used with Identify\r\n* Add option to group notifications\r\n* Fix rotation value for videos not being saved\r\n* Fix genres tab missing from music videos library\r\n* Support inherited images for music videos\r\n* Add date last episode aired sort order to tv shows\r\n* Support drag and drop reordering in all library settings\r\n* Add playback speed directly to video player OSD\r\n* Add up next to video OSD\r\n* Support -other for extras\r\n* Fix Live TV view not being hidden after removing Live TV from the server\r\n* Fix manage collaboration showing for playlists when permission to share personal content is denied\r\n* Add photo slideshow time per slide option\r\n* Add Play Slideshow context menu action for photos\r\n* Fix links section not showing for Collections\r\n* Fix .sdh missing from subtitle download file name\r\n* Refresh metadata on tracks when music albums are refreshed\r\n* Fix Referer header in log not being anonymized\r\n* Fix thumbnails for extras not being created",
     "reactions": {
       "url": "https://api.github.com/repos/MediaBrowser/Emby.Releases/releases/186792539/reactions",
-      "total_count": 3,
-      "+1": 1,
+      "total_count": 4,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 1,
@@ -4983,7 +5053,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 250332452,
-        "download_count": 1216,
+        "download_count": 1222,
         "created_at": "2024-11-07T21:51:29Z",
         "updated_at": "2024-11-07T21:51:33Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/com.emby.embyserver_4.9.0.31.apk"
@@ -5018,7 +5088,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 122220942,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2024-11-07T21:36:42Z",
         "updated_at": "2024-11-07T21:36:44Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-asustor_4.9.0.31_arm.apk"
@@ -5088,7 +5158,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 128545474,
-        "download_count": 23,
+        "download_count": 24,
         "created_at": "2024-11-07T21:55:16Z",
         "updated_at": "2024-11-07T21:55:18Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-asustor_4.9.0.31_arm64.apk"
@@ -5158,7 +5228,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 269404709,
-        "download_count": 70,
+        "download_count": 74,
         "created_at": "2024-11-07T22:21:57Z",
         "updated_at": "2024-11-07T22:22:02Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-asustor_4.9.0.31_x86-64.apk"
@@ -5228,7 +5298,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 184489560,
-        "download_count": 544,
+        "download_count": 548,
         "created_at": "2024-11-07T22:28:20Z",
         "updated_at": "2024-11-07T22:28:23Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-deb_4.9.0.31_amd64.deb"
@@ -5298,7 +5368,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 89691124,
-        "download_count": 115,
+        "download_count": 117,
         "created_at": "2024-11-07T22:01:34Z",
         "updated_at": "2024-11-07T22:01:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-deb_4.9.0.31_arm64.deb"
@@ -5368,7 +5438,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 120863036,
-        "download_count": 75,
+        "download_count": 76,
         "created_at": "2024-11-07T21:41:54Z",
         "updated_at": "2024-11-07T21:41:57Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-deb_4.9.0.31_armhf.deb"
@@ -5578,7 +5648,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 102142336,
-        "download_count": 32,
+        "download_count": 33,
         "created_at": "2024-11-07T21:49:17Z",
         "updated_at": "2024-11-07T21:49:19Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-freebsd13_4.9.0.31_amd64.pkg"
@@ -5718,7 +5788,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 110750045,
-        "download_count": 21,
+        "download_count": 22,
         "created_at": "2024-11-07T21:51:55Z",
         "updated_at": "2024-11-07T21:51:57Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-freebsd14_4.9.0.31_amd64.pkg"
@@ -5858,7 +5928,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 186216104,
-        "download_count": 16,
+        "download_count": 17,
         "created_at": "2024-11-07T22:39:12Z",
         "updated_at": "2024-11-07T22:39:16Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-netgear_4.9.0.31_amd64.deb"
@@ -5928,7 +5998,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 90203724,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2024-11-07T22:17:00Z",
         "updated_at": "2024-11-07T22:17:02Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-netgear_4.9.0.31_armhf.deb"
@@ -6208,7 +6278,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 91256149,
-        "download_count": 35,
+        "download_count": 36,
         "created_at": "2024-11-07T22:18:11Z",
         "updated_at": "2024-11-07T22:18:13Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-qnap_4.9.0.31_arm_64.qpkg"
@@ -6278,7 +6348,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 198040330,
-        "download_count": 294,
+        "download_count": 303,
         "created_at": "2024-11-07T22:41:27Z",
         "updated_at": "2024-11-07T22:41:31Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-qnap_4.9.0.31_x86_64.qpkg"
@@ -7258,7 +7328,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 185743360,
-        "download_count": 842,
+        "download_count": 877,
         "created_at": "2024-11-07T22:47:49Z",
         "updated_at": "2024-11-07T22:47:53Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby-server-synology72_4.9.0.31_x86_64.spk"
@@ -9358,7 +9428,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 48645554,
-        "download_count": 33,
+        "download_count": 34,
         "created_at": "2024-11-07T21:34:55Z",
         "updated_at": "2024-11-07T21:35:08Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-netcore_4.9.0.31.zip"
@@ -9393,7 +9463,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 50624062,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2024-11-07T21:49:24Z",
         "updated_at": "2024-11-07T21:49:29Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-netframework_4.9.0.31.zip"
@@ -9428,7 +9498,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 129178692,
-        "download_count": 198,
+        "download_count": 217,
         "created_at": "2024-11-08T02:44:57Z",
         "updated_at": "2024-11-08T02:45:43Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-osx-arm64-4.9.0.31.zip"
@@ -9463,7 +9533,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 141250258,
-        "download_count": 81,
+        "download_count": 96,
         "created_at": "2024-11-08T02:43:50Z",
         "updated_at": "2024-11-08T02:44:57Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-osx-x64-4.9.0.31.zip"
@@ -9498,7 +9568,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 134062942,
-        "download_count": 5008,
+        "download_count": 5015,
         "created_at": "2024-11-07T22:51:08Z",
         "updated_at": "2024-11-07T22:51:11Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-win-x64-4.9.0.31.7z"
@@ -9533,7 +9603,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 125519955,
-        "download_count": 24,
+        "download_count": 26,
         "created_at": "2024-11-07T22:51:05Z",
         "updated_at": "2024-11-07T22:51:07Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/embyserver-win-x86-4.9.0.31.7z"
@@ -9638,7 +9708,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 188304268,
-        "download_count": 48,
+        "download_count": 52,
         "created_at": "2024-11-07T22:19:12Z",
         "updated_at": "2024-11-07T22:19:16Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.31/emby_TOS5_APP_4.9.0.31_x86_64.tpk"
@@ -9901,7 +9971,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 250180502,
-        "download_count": 12814,
+        "download_count": 13638,
         "created_at": "2024-10-01T17:06:59Z",
         "updated_at": "2024-10-01T17:08:26Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/com.emby.embyserver_4.8.10.0.apk"
@@ -9936,7 +10006,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 119188715,
-        "download_count": 111,
+        "download_count": 115,
         "created_at": "2024-09-30T20:28:02Z",
         "updated_at": "2024-09-30T20:28:44Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-asustor_4.8.10.0_arm.apk"
@@ -9971,7 +10041,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 123894443,
-        "download_count": 178,
+        "download_count": 186,
         "created_at": "2024-09-30T20:30:18Z",
         "updated_at": "2024-09-30T20:31:02Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-asustor_4.8.10.0_arm64.apk"
@@ -10006,7 +10076,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 252339603,
-        "download_count": 400,
+        "download_count": 414,
         "created_at": "2024-09-30T20:26:34Z",
         "updated_at": "2024-09-30T20:28:02Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-asustor_4.8.10.0_x86-64.apk"
@@ -10041,7 +10111,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 172255364,
-        "download_count": 112512,
+        "download_count": 119984,
         "created_at": "2024-09-30T20:28:44Z",
         "updated_at": "2024-09-30T20:29:46Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-deb_4.8.10.0_amd64.deb"
@@ -10076,7 +10146,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 85975060,
-        "download_count": 1785,
+        "download_count": 1911,
         "created_at": "2024-09-30T20:29:46Z",
         "updated_at": "2024-09-30T20:30:18Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-deb_4.8.10.0_arm64.deb"
@@ -10111,7 +10181,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 117851894,
-        "download_count": 627,
+        "download_count": 658,
         "created_at": "2024-09-30T20:31:02Z",
         "updated_at": "2024-09-30T20:31:43Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-deb_4.8.10.0_armhf.deb"
@@ -10216,7 +10286,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 84905292,
-        "download_count": 150,
+        "download_count": 154,
         "created_at": "2024-09-30T20:07:56Z",
         "updated_at": "2024-09-30T20:08:26Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-freebsd13_4.8.10.0_amd64.pkg"
@@ -10286,7 +10356,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 91995726,
-        "download_count": 18,
+        "download_count": 20,
         "created_at": "2024-09-30T20:08:47Z",
         "updated_at": "2024-09-30T20:09:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-freebsd14_4.8.10.0_amd64.pkg"
@@ -10321,7 +10391,7 @@
         "content_type": "application/x-compressed",
         "state": "uploaded",
         "size": 58224224,
-        "download_count": 107,
+        "download_count": 108,
         "created_at": "2024-09-30T20:17:57Z",
         "updated_at": "2024-09-30T20:18:17Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-freebsd14_4.8.10.0_amd64.tar.xz"
@@ -10356,7 +10426,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 174552782,
-        "download_count": 128,
+        "download_count": 131,
         "created_at": "2024-09-30T20:19:29Z",
         "updated_at": "2024-09-30T20:20:29Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-netgear_4.8.10.0_amd64.deb"
@@ -10391,7 +10461,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 87644236,
-        "download_count": 48,
+        "download_count": 50,
         "created_at": "2024-09-30T20:21:39Z",
         "updated_at": "2024-09-30T20:22:13Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-netgear_4.8.10.0_armhf.deb"
@@ -10426,7 +10496,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 105342459,
-        "download_count": 159,
+        "download_count": 167,
         "created_at": "2024-09-30T20:22:13Z",
         "updated_at": "2024-09-30T20:22:52Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-qnap-mono_4.8.10.0_arm-x19.qpkg"
@@ -10461,7 +10531,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 105512611,
-        "download_count": 251,
+        "download_count": 272,
         "created_at": "2024-09-30T20:22:52Z",
         "updated_at": "2024-09-30T20:23:29Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-qnap-mono_4.8.10.0_arm-x41.qpkg"
@@ -10496,7 +10566,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 87474623,
-        "download_count": 161,
+        "download_count": 174,
         "created_at": "2024-09-30T20:24:00Z",
         "updated_at": "2024-09-30T20:24:30Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-qnap_4.8.10.0_arm-x31.qpkg"
@@ -10531,7 +10601,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 88101894,
-        "download_count": 447,
+        "download_count": 482,
         "created_at": "2024-09-30T20:23:29Z",
         "updated_at": "2024-09-30T20:24:00Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-qnap_4.8.10.0_arm_64.qpkg"
@@ -10566,7 +10636,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 184437151,
-        "download_count": 3264,
+        "download_count": 3414,
         "created_at": "2024-09-30T20:20:29Z",
         "updated_at": "2024-09-30T20:21:39Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-qnap_4.8.10.0_x86_64.qpkg"
@@ -10601,7 +10671,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 82228537,
-        "download_count": 61,
+        "download_count": 63,
         "created_at": "2024-09-30T20:25:08Z",
         "updated_at": "2024-09-30T20:25:36Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-rpm_4.8.10.0_aarch64.rpm"
@@ -10636,7 +10706,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 164919265,
-        "download_count": 1475,
+        "download_count": 1568,
         "created_at": "2024-09-30T20:25:36Z",
         "updated_at": "2024-09-30T20:26:34Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-rpm_4.8.10.0_x86_64.rpm"
@@ -10881,7 +10951,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 112271360,
-        "download_count": 56,
+        "download_count": 59,
         "created_at": "2024-10-01T01:38:56Z",
         "updated_at": "2024-10-01T01:39:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology-mono_4.8.10.0_armv5.spk"
@@ -10916,7 +10986,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 112128000,
-        "download_count": 89,
+        "download_count": 91,
         "created_at": "2024-10-01T01:36:20Z",
         "updated_at": "2024-10-01T01:36:59Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology-mono_4.8.10.0_armv7_legacy.spk"
@@ -11021,7 +11091,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 114585600,
-        "download_count": 27,
+        "download_count": 29,
         "created_at": "2024-10-01T01:42:14Z",
         "updated_at": "2024-10-01T01:42:54Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology-mono_4.8.10.0_ppc.spk"
@@ -11056,7 +11126,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 121937920,
-        "download_count": 130,
+        "download_count": 132,
         "created_at": "2024-10-01T01:40:14Z",
         "updated_at": "2024-10-01T01:40:56Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology-mono_4.8.10.0_x86.spk"
@@ -11196,7 +11266,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 112128000,
-        "download_count": 301,
+        "download_count": 323,
         "created_at": "2024-10-01T01:43:32Z",
         "updated_at": "2024-10-01T01:44:12Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology7-mono_4.8.10.0_armv7_legacy.spk"
@@ -11266,7 +11336,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 121927680,
-        "download_count": 191,
+        "download_count": 200,
         "created_at": "2024-10-01T01:28:36Z",
         "updated_at": "2024-10-01T01:29:19Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology7-mono_4.8.10.0_x86.spk"
@@ -11301,7 +11371,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 112128000,
-        "download_count": 763,
+        "download_count": 816,
         "created_at": "2024-10-01T01:32:31Z",
         "updated_at": "2024-10-01T01:33:09Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology72-mono_4.8.10.0_armv7_legacy.spk"
@@ -11406,7 +11476,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 87060480,
-        "download_count": 523,
+        "download_count": 547,
         "created_at": "2024-10-01T01:31:30Z",
         "updated_at": "2024-10-01T01:32:00Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology72_4.8.10.0_armv7.spk"
@@ -11441,7 +11511,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 87070720,
-        "download_count": 1321,
+        "download_count": 1395,
         "created_at": "2024-10-01T01:35:50Z",
         "updated_at": "2024-10-01T01:36:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology72_4.8.10.0_armv8.spk"
@@ -11476,7 +11546,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 87080960,
-        "download_count": 5,
+        "download_count": 6,
         "created_at": "2024-10-01T01:23:24Z",
         "updated_at": "2024-10-01T01:23:55Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology72_4.8.10.0_monaco.spk"
@@ -11511,7 +11581,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 174325760,
-        "download_count": 9482,
+        "download_count": 9943,
         "created_at": "2024-10-01T01:33:09Z",
         "updated_at": "2024-10-01T01:34:10Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology72_4.8.10.0_x86_64.spk"
@@ -11581,7 +11651,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 88156160,
-        "download_count": 239,
+        "download_count": 254,
         "created_at": "2024-10-01T01:22:53Z",
         "updated_at": "2024-10-01T01:23:24Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology7_4.8.10.0_armv7.spk"
@@ -11651,7 +11721,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 88913920,
-        "download_count": 220,
+        "download_count": 229,
         "created_at": "2024-10-01T01:25:28Z",
         "updated_at": "2024-10-01T01:25:59Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology7_4.8.10.0_armv8.spk"
@@ -11756,7 +11826,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 176414720,
-        "download_count": 1621,
+        "download_count": 1732,
         "created_at": "2024-10-01T01:27:35Z",
         "updated_at": "2024-10-01T01:28:36Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology7_4.8.10.0_x86_64.spk"
@@ -11826,7 +11896,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 88156160,
-        "download_count": 91,
+        "download_count": 95,
         "created_at": "2024-10-01T01:30:21Z",
         "updated_at": "2024-10-01T01:30:51Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology_4.8.10.0_armv7.spk"
@@ -11896,7 +11966,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 88893440,
-        "download_count": 84,
+        "download_count": 90,
         "created_at": "2024-10-01T01:29:19Z",
         "updated_at": "2024-10-01T01:29:50Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology_4.8.10.0_armv8.spk"
@@ -12001,7 +12071,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 176404480,
-        "download_count": 775,
+        "download_count": 792,
         "created_at": "2024-10-01T01:24:26Z",
         "updated_at": "2024-10-01T01:25:28Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-synology_4.8.10.0_x86_64.spk"
@@ -12036,7 +12106,7 @@
         "content_type": "video/mpeg",
         "state": "uploaded",
         "size": 119862513,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2024-09-30T20:15:25Z",
         "updated_at": "2024-09-30T20:16:07Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-thecus_4.8.10.0_arm_32.mod"
@@ -12071,7 +12141,7 @@
         "content_type": "video/mpeg",
         "state": "uploaded",
         "size": 253914339,
-        "download_count": 31,
+        "download_count": 34,
         "created_at": "2024-09-30T20:12:29Z",
         "updated_at": "2024-09-30T20:13:57Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-thecus_4.8.10.0_x86_64.mod"
@@ -12141,7 +12211,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 253902864,
-        "download_count": 27,
+        "download_count": 30,
         "created_at": "2024-10-01T00:12:50Z",
         "updated_at": "2024-10-01T00:14:17Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_dl2100_os5_4.8.10.0_x86_64.bin"
@@ -12211,7 +12281,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 253901852,
-        "download_count": 8,
+        "download_count": 9,
         "created_at": "2024-10-01T00:11:23Z",
         "updated_at": "2024-10-01T00:12:50Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_dl4100_os5_4.8.10.0_x86_64.bin"
@@ -12246,7 +12316,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159591212,
-        "download_count": 2,
+        "download_count": 3,
         "created_at": "2024-10-01T00:08:04Z",
         "updated_at": "2024-10-01T00:08:59Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_ex2100_4.8.10.0_arm.bin"
@@ -12386,7 +12456,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159587598,
-        "download_count": 256,
+        "download_count": 272,
         "created_at": "2024-10-01T00:07:09Z",
         "updated_at": "2024-10-01T00:08:04Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_ex2_ultra_os5_4.8.10.0_arm.bin"
@@ -12526,7 +12596,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159590480,
-        "download_count": 20,
+        "download_count": 21,
         "created_at": "2024-10-01T00:03:27Z",
         "updated_at": "2024-10-01T00:04:23Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_mirror_gen1_4.8.10.0_arm.bin"
@@ -12596,7 +12666,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159588533,
-        "download_count": 19,
+        "download_count": 21,
         "created_at": "2024-10-01T00:00:09Z",
         "updated_at": "2024-10-01T00:01:04Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_mirror_gen2_os5_4.8.10.0_arm.bin"
@@ -12666,7 +12736,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 159587632,
-        "download_count": 66,
+        "download_count": 71,
         "created_at": "2024-09-30T23:57:23Z",
         "updated_at": "2024-09-30T23:58:18Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_my_cloud_gen2_os5_4.8.10.0_arm.bin"
@@ -12806,7 +12876,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 253905917,
-        "download_count": 95,
+        "download_count": 102,
         "created_at": "2024-09-30T23:53:00Z",
         "updated_at": "2024-09-30T23:54:28Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby-server-western_digital_pr4100_os5_4.8.10.0_x86_64.bin"
@@ -12841,7 +12911,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 49224779,
-        "download_count": 275,
+        "download_count": 292,
         "created_at": "2024-09-30T20:09:20Z",
         "updated_at": "2024-09-30T20:09:38Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-netcore_4.8.10.0.zip"
@@ -12876,7 +12946,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 50707666,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2024-09-30T20:12:11Z",
         "updated_at": "2024-09-30T20:12:29Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-netframework_4.8.10.0.zip"
@@ -12911,7 +12981,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 130856291,
-        "download_count": 3575,
+        "download_count": 3796,
         "created_at": "2024-10-01T03:37:44Z",
         "updated_at": "2024-10-01T03:38:30Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-osx-arm64-4.8.10.0.zip"
@@ -12946,7 +13016,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 139508460,
-        "download_count": 2750,
+        "download_count": 2884,
         "created_at": "2024-10-01T03:38:30Z",
         "updated_at": "2024-10-01T03:39:18Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-osx-x64-4.8.10.0.zip"
@@ -12981,7 +13051,7 @@
         "content_type": "application/x-compressed",
         "state": "uploaded",
         "size": 132600613,
-        "download_count": 309500,
+        "download_count": 317955,
         "created_at": "2024-09-30T20:09:38Z",
         "updated_at": "2024-09-30T20:10:26Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-win-x64-4.8.10.0.7z"
@@ -13016,7 +13086,7 @@
         "content_type": "application/x-compressed",
         "state": "uploaded",
         "size": 123362819,
-        "download_count": 2260,
+        "download_count": 2330,
         "created_at": "2024-09-30T20:10:26Z",
         "updated_at": "2024-09-30T20:11:09Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/embyserver-win-x86-4.8.10.0.7z"
@@ -13051,7 +13121,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 89567468,
-        "download_count": 72,
+        "download_count": 75,
         "created_at": "2024-09-30T20:16:44Z",
         "updated_at": "2024-09-30T20:17:15Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby_TOS5_APP_4.8.10.0_aarch64.tpk"
@@ -13086,7 +13156,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 176992044,
-        "download_count": 333,
+        "download_count": 366,
         "created_at": "2024-09-30T20:11:09Z",
         "updated_at": "2024-09-30T20:12:11Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby_TOS5_APP_4.8.10.0_x86_64.tpk"
@@ -13121,7 +13191,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 119883336,
-        "download_count": 107,
+        "download_count": 117,
         "created_at": "2024-09-30T20:17:15Z",
         "updated_at": "2024-09-30T20:17:57Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby_TOS_APP_4.8.10.0_aarch64.tpk"
@@ -13156,7 +13226,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 239220495,
-        "download_count": 144,
+        "download_count": 155,
         "created_at": "2024-09-30T20:13:57Z",
         "updated_at": "2024-09-30T20:15:25Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.10.0/emby_TOS_APP_4.8.10.0_x86_64.tpk"
@@ -13314,7 +13384,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 123889396,
-        "download_count": 30,
+        "download_count": 31,
         "created_at": "2024-09-24T16:06:58Z",
         "updated_at": "2024-09-24T16:07:41Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/emby-server-asustor_4.8.9.0_arm64.apk"
@@ -13349,7 +13419,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 254064916,
-        "download_count": 108,
+        "download_count": 109,
         "created_at": "2024-09-24T16:02:52Z",
         "updated_at": "2024-09-24T16:04:19Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/emby-server-asustor_4.8.9.0_x86-64.apk"
@@ -13384,7 +13454,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 173501156,
-        "download_count": 3045,
+        "download_count": 3070,
         "created_at": "2024-09-24T16:01:51Z",
         "updated_at": "2024-09-24T16:02:52Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/emby-server-deb_4.8.9.0_amd64.deb"
@@ -13454,7 +13524,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 117849806,
-        "download_count": 96,
+        "download_count": 97,
         "created_at": "2024-09-24T16:09:53Z",
         "updated_at": "2024-09-24T16:10:34Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/emby-server-deb_4.8.9.0_armhf.deb"
@@ -16254,7 +16324,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 130855503,
-        "download_count": 553,
+        "download_count": 556,
         "created_at": "2024-09-25T00:31:48Z",
         "updated_at": "2024-09-25T00:32:33Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/embyserver-osx-arm64-4.8.9.0.zip"
@@ -16289,7 +16359,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 139507713,
-        "download_count": 488,
+        "download_count": 492,
         "created_at": "2024-09-25T00:32:33Z",
         "updated_at": "2024-09-25T00:33:21Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.9.0/embyserver-osx-x64-4.8.9.0.zip"
@@ -17042,7 +17112,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 91672680,
-        "download_count": 14,
+        "download_count": 15,
         "created_at": "2024-08-25T23:55:33Z",
         "updated_at": "2024-08-25T23:55:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.9.0.30/emby-server-flatpak_4.9.0.30_aarch64.flatpak"
@@ -21680,7 +21750,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 252044892,
-        "download_count": 580,
+        "download_count": 581,
         "created_at": "2024-05-31T04:53:48Z",
         "updated_at": "2024-05-31T04:55:20Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/emby-server-asustor_4.8.8.0_x86-64.apk"
@@ -21715,7 +21785,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 171934284,
-        "download_count": 263609,
+        "download_count": 263624,
         "created_at": "2024-05-31T04:52:49Z",
         "updated_at": "2024-05-31T04:53:48Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/emby-server-deb_4.8.8.0_amd64.deb"
@@ -21750,7 +21820,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 85706980,
-        "download_count": 6287,
+        "download_count": 6289,
         "created_at": "2024-05-31T04:52:19Z",
         "updated_at": "2024-05-31T04:52:49Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/emby-server-deb_4.8.8.0_arm64.deb"
@@ -23185,7 +23255,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 174151680,
-        "download_count": 11381,
+        "download_count": 11383,
         "created_at": "2024-05-31T16:45:00Z",
         "updated_at": "2024-05-31T16:46:05Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/emby-server-synology72_4.8.8.0_x86_64.spk"
@@ -24585,7 +24655,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 130511593,
-        "download_count": 6349,
+        "download_count": 6352,
         "created_at": "2024-05-31T04:32:43Z",
         "updated_at": "2024-05-31T04:33:35Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/embyserver-osx-arm64-4.8.8.0.zip"
@@ -24620,7 +24690,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 139172781,
-        "download_count": 5177,
+        "download_count": 5180,
         "created_at": "2024-05-31T04:33:35Z",
         "updated_at": "2024-05-31T04:34:31Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/embyserver-osx-x64-4.8.8.0.zip"
@@ -24655,7 +24725,7 @@
         "content_type": "application/x-compressed",
         "state": "uploaded",
         "size": 131986846,
-        "download_count": 416526,
+        "download_count": 416537,
         "created_at": "2024-05-31T04:56:43Z",
         "updated_at": "2024-05-31T04:57:29Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/embyserver-win-x64-4.8.8.0.7z"
@@ -24690,7 +24760,7 @@
         "content_type": "application/x-compressed",
         "state": "uploaded",
         "size": 122822106,
-        "download_count": 4133,
+        "download_count": 4136,
         "created_at": "2024-05-31T17:06:08Z",
         "updated_at": "2024-05-31T17:06:50Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.8.0/embyserver-win-x86-4.8.8.0.7z"
@@ -27928,7 +27998,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 130482568,
-        "download_count": 1060,
+        "download_count": 1063,
         "created_at": "2024-05-17T19:58:58Z",
         "updated_at": "2024-05-17T19:59:43Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.7.0/embyserver-osx-arm64-4.8.7.0.zip"
@@ -27963,7 +28033,7 @@
         "content_type": "application/x-zip-compressed",
         "state": "uploaded",
         "size": 139143720,
-        "download_count": 1092,
+        "download_count": 1095,
         "created_at": "2024-05-17T19:59:43Z",
         "updated_at": "2024-05-17T20:00:31Z",
         "browser_download_url": "https://github.com/MediaBrowser/Emby.Releases/releases/download/4.8.7.0/embyserver-osx-x64-4.8.7.0.zip"
